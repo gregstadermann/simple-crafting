@@ -1,8 +1,8 @@
 ---
 - id: greenplant
-  name: "Green Plant"
+  name: "green plant"
   type: RESOURCE
-  roomDesc: "Green Plant"
+  roomDesc: "a green plant"
   keywords: [ "green", "plant", "resource" ]
   description: "An oddly bright green plant whose thorns shine as the light hits them. Perhaps you could <b><cyan>gather</cyan></b> it."
   metadata:
@@ -17,9 +17,9 @@
           min: 1
           max: 3
 - id: redrose
-  name: "Red Rose"
+  name: "red rose"
   type: RESOURCE
-  roomDesc: "Red Rose"
+  roomDesc: "a red rose"
   keywords: [ "red", "rose", "resource" ]
   description: "An oddly bright red rose whose thorns shine as the light hits them. Perhaps you could <b><cyan>gather</cyan></b> it."
   metadata:
