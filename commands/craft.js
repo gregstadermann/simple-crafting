@@ -99,7 +99,7 @@ subcommands.add({
     }
 
     if (player.isInventoryFull()) {
-      return say(player, "You can't hold any more items.");
+      return say(player, "Your hands are full!");
     }
 
     // deduct resources
